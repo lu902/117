@@ -1,5 +1,5 @@
 var stars = document.querySelector(".stars");
-var starCount = 2000;
+var starCount = 2600;
 
 function createStar(id) {
   var star = document.createElement("div");
