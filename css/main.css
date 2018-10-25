@@ -7,7 +7,7 @@ body {
   width: 200px;
   height: 200px;
   border-radius: 50%;
-  background: red url("../img/sun.jpg") no-repeat center center;
+  background: url("../img/sun.jpg") no-repeat center center;
   position: absolute;
   top: calc(50% - 100px);
   left: calc(50% - 100px);
@@ -75,7 +75,7 @@ body {
   width: 100px;
   height: 100px;
   border-radius: 50%;
-  background: blue url("../img/earth.jpg") no-repeat center center;
+  background: url("../img/earth.jpg") no-repeat center center;
   background-size: cover;
   transform-origin: center center;
   animation: rotator 0.099s linear infinite;
@@ -84,7 +84,7 @@ body {
   width: 50px;
   height: 50px;
   border-radius: 50%;
-  background: yellow url("../img/moon.jpg") no-repeat center center;
+  background: url("../img/moon.jpg") no-repeat center center;
   position: absolute;
   top: 25px;
   left: 125px;
